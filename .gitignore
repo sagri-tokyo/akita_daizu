@@ -1,0 +1,6 @@
+# dataは保存しない
+data/raster/
+
+# docker
+docker-compose.yml
+.devcontainer/
