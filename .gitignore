@@ -1,6 +1,6 @@
 # dataは保存しない
 data/raster/
-
+outputimage/
 # docker
 docker-compose.yml
 .devcontainer/
