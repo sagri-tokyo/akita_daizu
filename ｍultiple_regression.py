@@ -67,6 +67,7 @@ def sklearn_calc(labels, params):
     ax.set_xlabel('Measured')
     ax.set_ylabel('Predicted')
     plt.show()
+    return
 
 
 def main():
