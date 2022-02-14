@@ -1,5 +1,6 @@
 # dataは保存しない
 data/raster/
+data/gifu_raster/
 outputimage/
 # docker
 docker-compose.yml
