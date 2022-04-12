@@ -5,3 +5,4 @@ outputimage/
 # docker
 docker-compose.yml
 .devcontainer/
+/data
